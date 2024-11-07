@@ -127,7 +127,7 @@ if latitude and longitude:
 else:
     print("No GPS data found in the image.")
 # Example usage
-pdf_path = r'C:\Users\Mbhst\Desktop\TestDoc2.pdf'
+pdf_path = r'C:\Users\Mbhst\Desktop\TestDoc1.pdf'
 extracted_content = extract_pdf_content(pdf_path)
 
 # Output extracted data
