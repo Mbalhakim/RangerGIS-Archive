@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "de0c4f236ad276f095ca2393dedfcdae",
+        "name": "pemaflo.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/pemaflo.png",
+        "size": {
+            "width": 1020,
+            "height": 742
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "h9nzSogW3b",
+            "type": "RECTANGLE",
+            "tags": [
+                "Pemaflo"
+            ],
+            "boundingBox": {
+                "height": 42.932314410480345,
+                "width": 138.5385226370135,
+                "left": 670.906721604448,
+                "top": 145.80786026200872
+            },
+            "points": [
+                {
+                    "x": 670.906721604448,
+                    "y": 145.80786026200872
+                },
+                {
+                    "x": 809.4452442414615,
+                    "y": 145.80786026200872
+                },
+                {
+                    "x": 809.4452442414615,
+                    "y": 188.74017467248908
+                },
+                {
+                    "x": 670.906721604448,
+                    "y": 188.74017467248908
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

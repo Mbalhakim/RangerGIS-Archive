@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "95efa6a7c0d3f846af1a49e2115b51fc",
+        "name": "SMBBFLO.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/SMBBFLO.png",
+        "size": {
+            "width": 951,
+            "height": 278
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TTGikF_usi",
+            "type": "RECTANGLE",
+            "tags": [
+                "SMBBFLO"
+            ],
+            "boundingBox": {
+                "height": 31.471698113207548,
+                "width": 118.62922122674017,
+                "left": 597.078566505858,
+                "top": 74.80675117924528
+            },
+            "points": [
+                {
+                    "x": 597.078566505858,
+                    "y": 74.80675117924528
+                },
+                {
+                    "x": 715.7077877325981,
+                    "y": 74.80675117924528
+                },
+                {
+                    "x": 715.7077877325981,
+                    "y": 106.27844929245283
+                },
+                {
+                    "x": 597.078566505858,
+                    "y": 106.27844929245283
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

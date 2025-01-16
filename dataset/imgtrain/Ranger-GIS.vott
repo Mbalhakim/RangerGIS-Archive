@@ -1,0 +1,401 @@
+{
+    "name": "Ranger-GIS",
+    "securityToken": "Ranger-GIS Token",
+    "sourceConnection": {
+        "name": "Ranger-GIS",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzU4MWMyMmJlNzkwZDI2OTRlOTFiZjEzZjk1YWFlMDY1NjJkMTc3MzUyMjgzODhiOGRlZjMwMzYwYTQyNDJiMzI4Yzc4MjdjY2NiNzZmN2ZmYjczYjhkMGEyOGY2NmFjZGExYzYzY2NlMTBkMzk0NjY0MTUxNjRmNDVjMmM3OGQiLCJpdiI6ImQzNWFlMjk1YjJmYWQ3MmU5YTg2M2JiMjU5YjFiNjgxMzFkYjJiZWM5M2U3NmY3OCJ9"
+        },
+        "id": "VUHDzl8bqU"
+    },
+    "targetConnection": {
+        "name": "Ranger-GIS",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTRmNWU5NzQzMjRlZjU0NTUwNTMyYzc3ZDQ5NDhjOTQ0NTkyMjhkYzM0ZDc2OTFjNzA4MTk2NTVhYTUyYWUyMWNjMGU5ZWZjZWJlNDM0MzZlZjJiYzlkNjBiZTYxMTU2NzNlYzE5MmMyNTFjYmViZjVhYzIzZGE2OGNjMTNjZDgiLCJpdiI6ImExZjljZTlhYjUxZjU2NTc1MmQ0MjM1NzlkNjY2ZGMyOWMxZjQ3MGYzZGMxNDBmZSJ9"
+        },
+        "id": "VUHDzl8bqU"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "TERSHYD",
+            "color": "#5db300"
+        },
+        {
+            "name": "SMBBFLO",
+            "color": "#e81123"
+        },
+        {
+            "name": "Imblo",
+            "color": "#6917aa"
+        },
+        {
+            "name": "GROLAG",
+            "color": "#015cda"
+        },
+        {
+            "name": "PAVOALG",
+            "color": "#4894fe"
+        },
+        {
+            "name": "DWINAL",
+            "color": "#6b849c"
+        },
+        {
+            "name": "aviwat",
+            "color": "#70c400"
+        },
+        {
+            "name": "Tersgeo",
+            "color": "#f7929a"
+        },
+        {
+            "name": "AAGOALGC781",
+            "color": "#257ffe"
+        },
+        {
+            "name": "Pemaflo",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "GUISFLO",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "Tersavi",
+            "color": "#386300"
+        }
+    ],
+    "id": "_ZG9b12-Oj",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTFiYWRlMGFjZDc1OGE5Y2M1NTQxMmIxYmQzN2RiMGUxZmZhMjMxNWUyMWYxYjk0Y2E5ZDU2MjJjMzFmM2Y0ZDNjZjRhNGU1YjAxNzU4ZWMzY2NhYzliZjU3MGVkMzRhNDBmOWZiZDEzN2YwYjE4YmJiOGVhNGE1NWIxNjk5MTlkZWVhZjM2MmVmMjQ5OTE1MGJlM2NiOTJkNzI4OTQ2NCIsIml2IjoiNjRkNGI5NDE1YjZhMjE2YzkxYTYyZTVmNDZmZGNkYjM2NmU4OGZhMTM1NjQ1Njk4In0="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "eb3c13eff90ac142794fbb9138a1691a",
+    "assets": {
+        "03243a400adb8adf3d3196e0b847dd32": {
+            "format": "png",
+            "id": "03243a400adb8adf3d3196e0b847dd32",
+            "name": "AAGOALGC781%20(2).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781%20(2).png",
+            "size": {
+                "width": 796,
+                "height": 896
+            },
+            "state": 2,
+            "type": 1
+        },
+        "071b583f359b3482f65ce7e7b7b2f58b": {
+            "format": "png",
+            "id": "071b583f359b3482f65ce7e7b7b2f58b",
+            "name": "AAGOALGC781%20(3).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781%20(3).png",
+            "size": {
+                "width": 794,
+                "height": 748
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6668f067cc28b6332e841f3890f4dd10": {
+            "format": "png",
+            "id": "6668f067cc28b6332e841f3890f4dd10",
+            "name": "AAGOALGC781%20(4).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781%20(4).png",
+            "size": {
+                "width": 797,
+                "height": 896
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc745808a0c95c35c7d0d55b52e981b3": {
+            "format": "png",
+            "id": "bc745808a0c95c35c7d0d55b52e981b3",
+            "name": "AAGOALGC781(1).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781(1).png",
+            "size": {
+                "width": 1021,
+                "height": 743
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e499a4ec0df02136fc29ced63aaa673c": {
+            "format": "png",
+            "id": "e499a4ec0df02136fc29ced63aaa673c",
+            "name": "AAGOALGC781-medium.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781-medium.png",
+            "size": {
+                "width": 794,
+                "height": 749
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73355528cf2ed6b0266679dd607d690b": {
+            "format": "png",
+            "id": "73355528cf2ed6b0266679dd607d690b",
+            "name": "AAGOALGC781-small.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781-small.png",
+            "size": {
+                "width": 787,
+                "height": 165
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e02c3890a90528322c3714bd62e545d5": {
+            "format": "png",
+            "id": "e02c3890a90528322c3714bd62e545d5",
+            "name": "AAGOALGC781.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781.png",
+            "size": {
+                "width": 632,
+                "height": 890
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6da1151f164a39759f2a2b9ebff671d": {
+            "format": "png",
+            "id": "f6da1151f164a39759f2a2b9ebff671d",
+            "name": "DWINAL%20(2).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/DWINAL%20(2).png",
+            "size": {
+                "width": 994,
+                "height": 714
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d84acc0f356c723a616fbc42b2c6e5eb": {
+            "format": "png",
+            "id": "d84acc0f356c723a616fbc42b2c6e5eb",
+            "name": "DWINAL.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/DWINAL.png",
+            "size": {
+                "width": 994,
+                "height": 715
+            },
+            "state": 2,
+            "type": 1
+        },
+        "472e4f5e808488b47b5348adcab7b6ac": {
+            "format": "png",
+            "id": "472e4f5e808488b47b5348adcab7b6ac",
+            "name": "GUISFLO%20(2).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/GUISFLO%20(2).png",
+            "size": {
+                "width": 230,
+                "height": 144
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a6714aa6af7403754838e29f9b78be8": {
+            "format": "png",
+            "id": "6a6714aa6af7403754838e29f9b78be8",
+            "name": "GUISFLO%20(3).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/GUISFLO%20(3).png",
+            "size": {
+                "width": 789,
+                "height": 482
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8826300385bb3ce4495f4ea9491e8a40": {
+            "format": "png",
+            "id": "8826300385bb3ce4495f4ea9491e8a40",
+            "name": "GUISFLO%20(4).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/GUISFLO%20(4).png",
+            "size": {
+                "width": 742,
+                "height": 634
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec8ffcb8816ee384d77c3a0805ab84b3": {
+            "format": "png",
+            "id": "ec8ffcb8816ee384d77c3a0805ab84b3",
+            "name": "GUISFLO%20(5).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/GUISFLO%20(5).png",
+            "size": {
+                "width": 935,
+                "height": 580
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d30a37d13f05603653d6ca838abb32a": {
+            "format": "png",
+            "id": "9d30a37d13f05603653d6ca838abb32a",
+            "name": "GUISFLO.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/GUISFLO.png",
+            "size": {
+                "width": 231,
+                "height": 144
+            },
+            "state": 2,
+            "type": 1
+        },
+        "781406cc907999eed366cfb7b96b2e3e": {
+            "format": "png",
+            "id": "781406cc907999eed366cfb7b96b2e3e",
+            "name": "Imblo%20(2).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Imblo%20(2).png",
+            "size": {
+                "width": 1169,
+                "height": 760
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbec8c1d142d86a9942585b6d31718bb": {
+            "format": "png",
+            "id": "fbec8c1d142d86a9942585b6d31718bb",
+            "name": "Imblo.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Imblo.png",
+            "size": {
+                "width": 1082,
+                "height": 641
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de0c4f236ad276f095ca2393dedfcdae": {
+            "format": "png",
+            "id": "de0c4f236ad276f095ca2393dedfcdae",
+            "name": "pemaflo.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/pemaflo.png",
+            "size": {
+                "width": 1020,
+                "height": 742
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e269fb1b8cbc229db941fa2b766cc19": {
+            "format": "png",
+            "id": "5e269fb1b8cbc229db941fa2b766cc19",
+            "name": "SMBBFLO%20(2).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/SMBBFLO%20(2).png",
+            "size": {
+                "width": 950,
+                "height": 278
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95efa6a7c0d3f846af1a49e2115b51fc": {
+            "format": "png",
+            "id": "95efa6a7c0d3f846af1a49e2115b51fc",
+            "name": "SMBBFLO.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/SMBBFLO.png",
+            "size": {
+                "width": 951,
+                "height": 278
+            },
+            "state": 2,
+            "type": 1
+        },
+        "234c38f54c3e23126b6c2bf0fd953932": {
+            "format": "png",
+            "id": "234c38f54c3e23126b6c2bf0fd953932",
+            "name": "Tersavi.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Tersavi.png",
+            "size": {
+                "width": 794,
+                "height": 286
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1114dabdf965431bc0ce1c1a2871b1c": {
+            "format": "png",
+            "id": "c1114dabdf965431bc0ce1c1a2871b1c",
+            "name": "Tersego.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Tersego.png",
+            "size": {
+                "width": 1092,
+                "height": 798
+            },
+            "state": 2,
+            "type": 1
+        },
+        "652bb7f41ccf89713ae18865ab8d6c6c": {
+            "format": "png",
+            "id": "652bb7f41ccf89713ae18865ab8d6c6c",
+            "name": "Tersgeo.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Tersgeo.png",
+            "size": {
+                "width": 1093,
+                "height": 798
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b29ffd78950142a9f4d20751d6a36b2": {
+            "format": "png",
+            "id": "0b29ffd78950142a9f4d20751d6a36b2",
+            "name": "TERSHYD%20(2).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/TERSHYD%20(2).png",
+            "size": {
+                "width": 792,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40ab712d763c686603d004ec2135ddf6": {
+            "format": "png",
+            "id": "40ab712d763c686603d004ec2135ddf6",
+            "name": "TERSHYD%20(3).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/TERSHYD%20(3).png",
+            "size": {
+                "width": 795,
+                "height": 287
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9778f595cfa8d05a75b5cc6080d21830": {
+            "format": "png",
+            "id": "9778f595cfa8d05a75b5cc6080d21830",
+            "name": "TERSHYD%20(4).png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/TERSHYD%20(4).png",
+            "size": {
+                "width": 624,
+                "height": 274
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb3c13eff90ac142794fbb9138a1691a": {
+            "format": "png",
+            "id": "eb3c13eff90ac142794fbb9138a1691a",
+            "name": "TERSHYD.png",
+            "path": "file:C:/Users/Mbhst/Desktop/imgtrain/TERSHYD.png",
+            "size": {
+                "width": 625,
+                "height": 275
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

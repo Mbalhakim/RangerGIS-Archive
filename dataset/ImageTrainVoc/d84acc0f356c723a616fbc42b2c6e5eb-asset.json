@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "d84acc0f356c723a616fbc42b2c6e5eb",
+        "name": "DWINAL.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/DWINAL.png",
+        "size": {
+            "width": 994,
+            "height": 715
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xn9CvNii5D",
+            "type": "RECTANGLE",
+            "tags": [
+                "DWINAL"
+            ],
+            "boundingBox": {
+                "height": 31.222707423580786,
+                "width": 149.91987431264727,
+                "left": 702.9202179890024,
+                "top": 91.3264192139738
+            },
+            "points": [
+                {
+                    "x": 702.9202179890024,
+                    "y": 91.3264192139738
+                },
+                {
+                    "x": 852.8400923016496,
+                    "y": 91.3264192139738
+                },
+                {
+                    "x": 852.8400923016496,
+                    "y": 122.54912663755458
+                },
+                {
+                    "x": 702.9202179890024,
+                    "y": 122.54912663755458
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

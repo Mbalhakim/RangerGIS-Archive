@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "fbec8c1d142d86a9942585b6d31718bb",
+        "name": "Imblo.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Imblo.png",
+        "size": {
+            "width": 1082,
+            "height": 641
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zCmzzwwLj1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Imblo"
+            ],
+            "boundingBox": {
+                "height": 23.105813953488372,
+                "width": 89.48311509303929,
+                "left": 375.08339076498964,
+                "top": 494.771875
+            },
+            "points": [
+                {
+                    "x": 375.08339076498964,
+                    "y": 494.771875
+                },
+                {
+                    "x": 464.56650585802896,
+                    "y": 494.771875
+                },
+                {
+                    "x": 464.56650585802896,
+                    "y": 517.8776889534884
+                },
+                {
+                    "x": 375.08339076498964,
+                    "y": 517.8776889534884
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

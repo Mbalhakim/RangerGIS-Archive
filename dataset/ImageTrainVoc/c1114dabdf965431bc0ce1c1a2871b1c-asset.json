@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c1114dabdf965431bc0ce1c1a2871b1c",
+        "name": "Tersego.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/Tersego.png",
+        "size": {
+            "width": 1092,
+            "height": 798
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OE7MNNDPyk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Tersgeo"
+            ],
+            "boundingBox": {
+                "height": 51.39956331877729,
+                "width": 175.17318435754188,
+                "left": 472.5754189944134,
+                "top": 450.39956331877727
+            },
+            "points": [
+                {
+                    "x": 472.5754189944134,
+                    "y": 450.39956331877727
+                },
+                {
+                    "x": 647.7486033519552,
+                    "y": 450.39956331877727
+                },
+                {
+                    "x": 647.7486033519552,
+                    "y": 501.7991266375546
+                },
+                {
+                    "x": 472.5754189944134,
+                    "y": 501.7991266375546
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

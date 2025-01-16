@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "e02c3890a90528322c3714bd62e545d5",
+        "name": "AAGOALGC781.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/AAGOALGC781.png",
+        "size": {
+            "width": 632,
+            "height": 890
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "17nDrwTsb5",
+            "type": "RECTANGLE",
+            "tags": [
+                "AAGOALGC781"
+            ],
+            "boundingBox": {
+                "height": 33.03493449781659,
+                "width": 158.48615384615385,
+                "left": 254.48634615384614,
+                "top": 794.7816593886463
+            },
+            "points": [
+                {
+                    "x": 254.48634615384614,
+                    "y": 794.7816593886463
+                },
+                {
+                    "x": 412.9725,
+                    "y": 794.7816593886463
+                },
+                {
+                    "x": 412.9725,
+                    "y": 827.8165938864629
+                },
+                {
+                    "x": 254.48634615384614,
+                    "y": 827.8165938864629
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

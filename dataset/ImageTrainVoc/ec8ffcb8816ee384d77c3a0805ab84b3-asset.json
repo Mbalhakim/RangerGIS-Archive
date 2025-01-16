@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "ec8ffcb8816ee384d77c3a0805ab84b3",
+        "name": "GUISFLO%20(5).png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/GUISFLO%20(5).png",
+        "size": {
+            "width": 935,
+            "height": 580
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9YCkZZDZHZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "GUISFLO"
+            ],
+            "boundingBox": {
+                "height": 27.06666666666667,
+                "width": 117.2777394900069,
+                "left": 681.1130254996555,
+                "top": 59.319097222222226
+            },
+            "points": [
+                {
+                    "x": 681.1130254996555,
+                    "y": 59.319097222222226
+                },
+                {
+                    "x": 798.3907649896623,
+                    "y": 59.319097222222226
+                },
+                {
+                    "x": 798.3907649896623,
+                    "y": 86.38576388888889
+                },
+                {
+                    "x": 681.1130254996555,
+                    "y": 86.38576388888889
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

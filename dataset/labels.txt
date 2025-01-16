@@ -1,0 +1,13 @@
+dataset\ImgTrainCrop\AAGOALGC781.png AAGOALGC781
+dataset\ImgTrainCrop\DWINAL(2).png DWINAL
+dataset\ImgTrainCrop\GUISFLO(2).png GUISFLO
+dataset\ImgTrainCrop\GUISFLO(3).png GUISFLO
+dataset\ImgTrainCrop\Imblo(2).png Imblo
+dataset\ImgTrainCrop\Imblo.png Imblo
+dataset\ImgTrainCrop\pemaflo.png pemaflo
+dataset\ImgTrainCrop\SMBBFLO(2).png SMBBFLO
+dataset\ImgTrainCrop\Tersavi.png Tersavi
+dataset\ImgTrainCrop\Tersego.png Tersego
+dataset\ImgTrainCrop\Tersgeo2.png Tersego
+dataset\ImgTrainCrop\TERSHYD(2).png TERSHYD
+dataset\ImgTrainCrop\TERSHYD(4).png TERSHYD

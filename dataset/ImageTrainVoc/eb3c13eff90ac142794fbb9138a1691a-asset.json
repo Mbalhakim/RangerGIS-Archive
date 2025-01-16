@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "eb3c13eff90ac142794fbb9138a1691a",
+        "name": "TERSHYD.png",
+        "path": "file:C:/Users/Mbhst/Desktop/imgtrain/TERSHYD.png",
+        "size": {
+            "width": 625,
+            "height": 275
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2c1pNw1h_V",
+            "type": "RECTANGLE",
+            "tags": [
+                "TERSHYD"
+            ],
+            "boundingBox": {
+                "height": 45.689655172413794,
+                "width": 195.55478980013783,
+                "left": 194.6933149552033,
+                "top": 38.89412715517241
+            },
+            "points": [
+                {
+                    "x": 194.6933149552033,
+                    "y": 38.89412715517241
+                },
+                {
+                    "x": 390.2481047553411,
+                    "y": 38.89412715517241
+                },
+                {
+                    "x": 390.2481047553411,
+                    "y": 84.5837823275862
+                },
+                {
+                    "x": 194.6933149552033,
+                    "y": 84.5837823275862
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
